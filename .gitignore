@@ -1,0 +1,7 @@
+__pypackages__/
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_STORE
+.Python
+*.manifest
