@@ -1,0 +1,66 @@
+[
+    {
+        "index": 0,
+        "image_id": "8",
+        "image_name": "test-pictures/8.png",
+        "classification_nr": 1,
+        "classification": "No cars",
+        "security": 0.8428033590316772
+    },
+    {
+        "index": 1,
+        "image_id": "4",
+        "image_name": "test-pictures/4.png",
+        "classification_nr": 1,
+        "classification": "No cars",
+        "security": 0.7842845320701599
+    },
+    {
+        "index": 2,
+        "image_id": "5",
+        "image_name": "test-pictures/5.png",
+        "classification_nr": 1,
+        "classification": "No cars",
+        "security": 0.9953029155731201
+    },
+    {
+        "index": 3,
+        "image_id": "7",
+        "image_name": "test-pictures/7.png",
+        "classification_nr": 0,
+        "classification": "Cars",
+        "security": 0.9999966621398926
+    },
+    {
+        "index": 4,
+        "image_id": "6",
+        "image_name": "test-pictures/6.png",
+        "classification_nr": 0,
+        "classification": "Cars",
+        "security": 0.9962196946144104
+    },
+    {
+        "index": 5,
+        "image_id": "2",
+        "image_name": "test-pictures/2.png",
+        "classification_nr": 0,
+        "classification": "Cars",
+        "security": 0.9995265007019043
+    },
+    {
+        "index": 6,
+        "image_id": "3",
+        "image_name": "test-pictures/3.png",
+        "classification_nr": 0,
+        "classification": "Cars",
+        "security": 0.9999771118164062
+    },
+    {
+        "index": 7,
+        "image_id": "1",
+        "image_name": "test-pictures/1.png",
+        "classification_nr": 1,
+        "classification": "No cars",
+        "security": 0.9993444085121155
+    }
+]
