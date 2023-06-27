@@ -1,0 +1,47 @@
+AI in de journalistiek? Alstublieft: hier uw invalshoek
+
+Kunstmatige intelligentie Lang werd gedacht dat journalistiek niet te automatiseren is. Een invalshoek kiezen, een bericht samenstellen – dat is toch alleen aan mensen besteed? Nieuwe tools doen een poging journalisten werk uit handen te nemen.
+
+Vergeet het idee dat robots, of beter gezegd bots, zelfstandig doorwrochte onderzoeksjournalistieke verhalen gaan schrijven. Vergeet ook het spookbeeld dat de journalistiek geheel overgenomen wordt door artificiële intelligentie (AI).
+
+Maar bedenk vooral wel dat AI ook de journalistiek gaat veranderen en talloze nieuwe mogelijkheden biedt: voor het verzamelen van nieuws, het graven in grote databergen, het genereren van nieuwe invalshoeken, het produceren van content, de verificatie van informatie, voor nieuwsdistributie en het ontmaskeren van fake-nieuws. De moderne journalist moet mee.
+
+Dat was de kernboodschap van de zomerschool AI & Journalism die de European Science-Media Hub samen met het European Youth Press Network van 4 tot 7 juni in het Europees Parlement in Straatsburg organiseerde. Zo’n zeventig studenten en journalisten uit twintig EU-landen werden in vier dagen wegwijs gemaakt in hoe AI de journalistiek aan het veranderen is. Grote mediabedrijven als Thomson Reuters, Bloomberg, The New York Times, The Washington Post, Deutsche Welle en de BBC doen het al. De kleinere kunnen de komende jaren niet achterblijven.
+
+De kernboodschap van de zomerschool wordt ook verwoord in het begin juni verschenen boek Automating the news – How algorithms are rewriting the media van Nicholas Diakopoulos (Northwestern University, VS), een van de grondleggers van het nieuwe vakgebied computationele journalistiek. Diakopoulos stelt: de journalistiek gaat gedreven worden door een hybride vorm van menselijke intelligentie en kunstmatige intelligentie.
+
+Het is heel moeilijk om het cognitieve werk van journalisten volledig te automatiseren, aldus Diakopoulos, maar er zijn talloze stukjes uit het journalistieke proces die geautomatiseerd kunnen en zullen worden. In een recent interview zei hij het kort en krachtig: „Klassieke nieuwsorganisaties zullen meer zoals Google moeten worden.”
+
+In de Global Survey of Journalism’s Future uit 2017 gaf zeventig procent van de nieuwsredacties aan zich niet bezig te houden met hoe nieuwe technologie de nieuwsproductie in vijf tot tien jaar zou veranderen. Hoogleraar Strategic Foresight aan New York University Amy Webb, initiatiefneemster van de studie, concludeerde: „De meeste journalisten en media zijn niet voorbereid op het benutten van deze technologieën. Ze missen de knowhow en slagen er niet in om in te spelen op technologische innovaties.”
+
+Drie voorbeelden uit de zomerschool op rij om te illustreren hoe AI de journalistiek kan verrijken.
+
+Invalshoeken genereren
+
+Project Inject, gefinancierd door het Europese Horizon 2020-programma en het Google Digital News Initiative, poogt journalistieke creativiteit te stimuleren door invalshoeken aan te reiken. Het project is afgerond en heeft een prototype opgeleverd dat de onderzoekers momenteel doorontwikkelen tot een commerciële versie.
+
+De bedoeling van Inject is dat het blikveld van de journalist verruimd wordt, door vooroordelen of vooringenomenheid die besloten ligt in zoekgedrag te omzeilen. Een klassieke zoekmachine zoekt naar veel gelezen bronnen die precies voldoen aan je zoekterm. Tik je bijvoorbeeld ‘artificial intelligence’ in in Google, dan kom je op pagina’s terecht die uitleggen wat AI is. Als je met Inject zoekt op ‘artificial intelligence’ krijg je sterk uiteenlopende resultaten, eigenlijk creatieve associaties: bijvoorbeeld informatie over ‘Alan Turing’ en artikelen zoals ‘What is beauty to an artificial intelligence?’ en ‘AI writes Burger King’s Latest Commercials’.
+
+Het prototype is een digitaal instrument dat je tijdens het schrijven van een verhaal kunt gebruiken, onder andere in Google Docs, maar ook in Adobe en als een webapplicatie. Gebruik je Google Docs, dan heeft Inject in de kantlijn van het tekstdocument zes ‘creativiteitsknoppen’ aangebracht. Elke knop staat voor een bepaalde strategie die de journalist aan een invalshoek kan helpen: kwantitatieve informatie, sleutelfiguren, causale informatie (redenen dat iets is gebeurd), cartoons, visualisaties en mogelijke gevolgen in de toekomst. Klik je op een woord in je tekst en daarna op een van de zes strategieknoppen, dan geeft Inject je nieuwe invalshoeken. Technisch gezien gebruikt het daarvoor drie takken van kunstmatige intelligentie: natuurlijke taalverwerking, informatieselectie en automatische aanbevelingen.
+
+Software-ingenieur en hoofdontwikkelaar Konstantinos Zachos: „Inmiddels heeft Inject twaalf miljoen artikelen uit 380 unieke nieuwsbronnen en zes talen geïndexeerd op mensen, plaatsen, organisaties en andere entiteiten. Elke dag komen daar 20.000 artikelen bij. Zoveel bronnen zo snel doorzoeken krijgt geen menselijke journalist voor elkaar.” Net zoals menselijke creativiteit op een vrij willekeurige manier naar associaties zoekt in je eigen geheugen, doet Inject dat door te zoeken naar verbanden tussen je zoektermen en andere entiteiten waarop het al die artikelen heeft geïndexeerd. Als mens kun je door die nieuwe associaties geïnspireerd worden, het hoeft natuurlijk niet.
+
+Papers lezen, patronen herkennen en samenvatten
+
+Mico Tatalovic, voorzitter van de Association of British Science Writers, heeft samen met onderzoekers van het Massachusetts Institute of Technology (MIT) een automatische wetenschapsjournalist ontwikkeld waarover ze afgelopen april publiceerden.
+
+De bot is getraind om patronen te herkennen in 60.000 wetenschappelijke artikelen en publieksverslagen die gepubliceerd werden op de website Science Daily. Technisch gezien gebruiken de onderzoekers hiervoor een neuraal netwerk, dat op een sterk vereenvoudigde manier nabootst hoe het menselijk brein patronen herkent. Omdat neurale netwerken moeite hebben om correlaties te vinden in stukken tekst die ver uit elkaar liggen, hebben de onderzoekers een truc gebruikt waardoor het netwerk als het ware een soort lange-termijngeheugen krijgt.
+
+Na deze training kan de bot een samenvatting in twee tot drie zinnen maken van nieuwe wetenschappelijke papers. In lekentaal, dus begrijpelijker dan de samenvattingen die bij elk wetenschappelijk artikel staan.
+
+Tatalovic: „Ik heb zowel bij het publiekstijdschrift New Scientist als bij het vakblad Nature gewerkt. Daar stond ik voor de vraag over welke wetenschappelijke artikelen ik wel of niet een nieuwsbericht zou schrijven. Het kost veel tijd om artikelen te scannen om een grof idee te krijgen of ze de moeite waard zijn. Onze bot is superhandig voor journalisten, redacteuren en ook voor de wetenschappers zelf. Je kunt je voorstellen dat zo’n bot in de toekomst ook persberichten gaat schrijven en zelfs eigenhandig onderzoekers per e-mail om quotes gaat vragen en die in het persbericht gebruikt.”
+
+Ontmaskeren van nepbronnen
+
+Het is een bekende video: paus Franciscus die op bezoek in een kathedraal in Washington DC als een volleerd magiër een tafelkleed onder een paar kolossale kandelaars vandaan trekt. Er kukelt er geen een om. Fake uiteraard.
+
+Het wordt steeds eenvoudiger zulke fake-video’s te maken. De internationaal georiënteerde omroep Deutsche Welle ontwikkelde een slimme detector van fakebeelden, Truly Media, die behalve door Deutsche Welle en de Duitse omroep ZDF inmiddels ook wordt gebruikt door Amnesty International en het Europees Parlement. Truly kan onder andere video’s frame voor frame automatisch analyseren op zoek naar verdachte aanpassingen, maar ook een reverse image search doen, op zoek naar de oorspronkelijke bron van afbeelding, of op zoek naar websites waar de afbeelding nog meer wordt gebruikt.
+
+Deutsche Welle werkt daarnaast ook aan een multi-drone-project waarin zes tot acht drones, aangestuurd door kunstmatige intelligentie, volledig automatisch vanuit diverse invalshoeken in september een bootrace in Berlijn in beeld gaan brengen.
+
+Ook gebruikt Deutsche Welle, dat in zestig landen en in dertig talen uitzendingen verzorgt, kunstmatige intelligentie voor het genereren van automatische ondertitels, automatische voice-overs, omzetting van spraak in tekst en het automatisch vertalen. Wilfried Runde, hoofd innovatie bij Deutsche Welle: „De resultaten zijn verbluffend goed. Niet perfect, maar daarom houden we ook een mens in-the-loop voor de eindcorrectie.” 

@@ -1,0 +1,22 @@
+Nieuwssites staan vol artikelen die niet door mensen zijn geschreven: ‘Vraag je af wíe het brengt’
+
+Kunstmatige intelligentie wordt gebruikt om zoveel mogelijk nieuwsartikelen te produceren, blijkt uit onderzoek van factchecking-tool NewsGuard. Wereldwijd staan websites vol met enorme hoeveelheden ‘clickbait-artikelen’ van lage kwaliteit om geld te verdienen aan advertenties. „We hebben hier allemaal verantwoordelijkheid in”, aldus cybersecurity expert Dave Maasland.
+
+Zogenoemde content farms, websites die bestaan om zoveel mogelijk advertentie-inkomsten binnen te halen, bestaan al jaren. Nu blijkt dat kunstmatige intelligentie (AI) wordt ingezet op deze websites. NewsGuard, een organisatie die het internet op feiten controleert, heeft in april 49 van zulke nieuwssites gevonden, waarop soms ook nepnieuws wordt verspreid. Er zijn websites in zeven verschillende talen gevonden, allemaal in de vorm van een doodnormale alledaagse nieuwssite.
+
+„NewsGuard legt hier echt even de vinger op de zere plek”, vertelt Dave Maasland, topman van internetbeveiligingsbedrijf ESET. Als het aan hem ligt, moet de discussie over kunstmatige intelligentie voorlopig dáárover gaan. Er zijn nog niet veel van zulke Nederlandse nieuwssites, maar dat is een kwestie van tijd. „Dat er wazig nieuws wordt verspreid om clicks te genereren is een wereldwijd probleem.”
+
+NewsGuard-analisten ontdekten de door AI gegenereerde websites door op trefwoorden te zoeken naar zinnen die gewoonlijk door AI worden geproduceerd. De zoekopdrachten werden uitgevoerd op de zoekmachines Google, Bing en DuckDuckGo. De analisten bevestigden vervolgens dat de sites grotendeels of volledig door AI waren gegenereerd door andere inhoud te onderzoeken op AI-zinnen en artikelen in te voeren in GPTZero, een middel om AI te herkennen.
+Schrijfstijl van een mens
+
+„Mensen denken vaak dat AI wordt gebruikt als een soort geautomatiseerde zoekmachine,” vertelt Maasland. „Maar AI wordt vaak geleerd om zo goed mogelijk de schrijfstijl van een mens na te doen.” Daar zit dan ook het probleem. Door die schrijfstijl kan de gemiddelde lezer op Facebook zomaar gefopt worden. „Die kijkt dan niet om naar de rest van de site en heeft geen idee dat het artikel niet door een mens is geschreven.”
+
+Toch worden de content farms wel gesnapt op het gebruik van AI: alle 49 sites hadden ten minste één artikel met veelvoorkomende foutmeldingen, zoals ‘Ik kan deze actie niet voltooien’ of er werd geschreven dat de AI geen nepnieuws wil verspreiden.
+Transparantie en voorlichting
+
+Dat programma's zoals vraagbaak ChatGPT meehelpen met het beter verwoorden van feitelijk nieuws, is geen probleem op zich, oppert Maasland. Daarbij moet de lezer wel weten dat er gebruikt gemaakt is van dit soort programma's.
+
+Transparantie en voorlichting zijn dan ook de oplossing, volgens Maasland. Zo moeten traditionele media laten zien hoe er onderzoek is gedaan naar verschillende bronnen. „Mensen moeten zich niet alleen afvragen wat het nieuws zegt, maar ook wie het nieuws brengt.” Zo kun je ChatGPT zomaar een paar artikelen van CNN laten lezen en een nieuw artikel in die stijl laten schrijven, legt Maasland uit. Er moet dus worden gecontroleerd wie de schrijver is.
+Visueel nepnieuws
+
+Ook met beeldmateriaal wordt tegenwoordig AI gebruikt, zelfs in de oorlog in Oekraïne. Zo zouden lezers moeten checken op het gebruik van bronnen en leren omgekeerd te zoeken op afbeeldingen. Maasland duidt aan dat er afbeeldingen werden verspreid van een nepprotest in Oekraïne. Wanneer je weet hoe je die kopieën opspoort en ziet dat het door AI is gemaakt, ben je beter bewapend tegen zulk nepnieuws. „We moeten consumenten leren consumeren en hebben hier allemaal verantwoordelijkheid in”, stelt Maasland.

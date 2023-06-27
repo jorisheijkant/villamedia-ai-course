@@ -1,0 +1,79 @@
+Reportage Kunstmatige intelligentie
+AI verovert de creatieve sector: ‘Het is aanpassen of wegkwijnen’ 
+
+Het zoemt in de creatieve sector: computers kunnen nu ook illustraties maken, gedichten schrijven en zelfs digitale personages tot leven laten komen. Gaan programma’s als ChatGPT en Dall-E banen kosten?
+Daan Marselis26 januari 2023, 19:47
+
+De mensheid is veel te lang ‘creatief geobstipeerd’ geweest, meent de Amerikaanse techondernemer Emad Mostaque. We wilden ons wel uiten via vloeiende teksten of schitterende afbeeldingen, maar we konden het niet, luidt zijn analyse. Het ontbrak aan talent, de juiste gereedschappen of het geduld om echt creatief te zijn. Wie het zich kon veroorloven wendde zich daarom tot schrijvers of beeldend kunstenaars.
+
+Met zijn bedrijf StabilityAI wil Mostaque niets minder dan een revolutie ontketenen. Met de slimme software die het ontwikkelt moet iedereen straks briljante opstellen en oogstrelende illustraties kunnen maken. Schrijvers, illustratoren, vormgevers en videomakers zijn dan niet meer nodig, zo lijkt het.
+
+Stability AI verkoopt software waarmee via eenvoudige opdrachten illustraties, foto’s, teksten, audio en meer gemaakt kunnen worden. Het bedrijf is vooral bekend van Stable Diffusion, dat zich nog het best laat omschrijven als een geautomatiseerde versie van Photoshop.
+
+Stability AI concurreert met OpenAi, dat bekend is van Dall-E, waarmee je eenvoudig afbeeldingen maakt. En met ChatGPT. In meest enge zin is dat een chatbot, een computerprogramma waartegen je kunt praten. Maar dit is ook het programma waarmee uw kind goede cijfers haalt op de middelbare school, terwijl het tijd overhoudt om te gamen, instagrammen, tiktokken, BeRealen of wat er nu ook maar hip is.
+Een race om werelddominantie
+
+Stability en OpenAI zijn in een race verwikkeld om niets minder dan werelddominantie. Voor die strijd zijn vele miljarden dollars beschikbaar. De boodschap vanuit Silicon Valley, waar alle grote techbedrijven zetelen, is duidelijk: deze ontwikkeling valt niet meer te stoppen.
+
+In grote delen van de economie kennen werknemers dat knagende gevoel al veel langer: kan de computer of een robot dit trucje straks ook? In de productie, bij de afdelingen databeheer, administratie en klantenservice, maar ook in de zorg en de juridische dienstverlening, overal waar volgens protocollen wordt gewerkt, zijn mensen gewend geraakt aan die latente dreiging.
+
+Maar dat nu de creatieve sector ineens van alle magie wordt ontdaan, hadden weinigen verwacht. Ook het Sociaal en Cultureel Planbureau en de Sociaal-Economische Raad misten die trend in hun meest recente rapporten. 
+
+ Opvallend veel columnisten kwamen op hetzelfde idee, namelijk om hun rubriek te laten schrijven door ChatGPT. De eensluidende conclusie: dat programma bakt er nog niets van. “Mijn laatste uur als columnist zou ongetwijfeld slaan als ik zou komen aanzetten met zo’n tekst”, concludeerde Wim Moorman deze week nog in De Limburger over enkele regels die de chatbot had uitgebraakt.
+
+Maar laat je daardoor niet misleiden: zelfs het schrijversgilde moet er aan geloven, zegt hoogleraar mens-robot-interactie David Abbink (45) van de TU Delft. “Werk gaat veranderen door technologie.” Dat lijkt een platitude, maar is het niet. “Het is een heel ander standpunt dan dat werk gaat verdwijnen.” 
+
+ De software het werk laten doen
+
+Bij het Rotterdamse marketingbureau RAUWcc hebben ze de nieuwe techniek al omarmd. Een paar van de eerste ‘prompt masters’ van Nederland werken bij dit bedrijf. Deze mensen geven de slimme software opdrachten, in plaats van het handwerk zelf te doen. Het is nog geen erkend beroep, maar Victor van Gaasbeek (32) en Remco Tent (42) halen er duidelijk veel plezier uit om zich al zo te noemen. “Wij zijn hier de prompt masters!” zegt Van Gaasbeek.
+
+Dat beroep hadden ze vroeger nooit voor zichzelf bedacht. Van Gaasbeek deed de kunstacademie en werkte als grafisch vormgever voordat hij zich bekwaamde in motion design. Daarbij worden op basis van 3D-modellen allerlei afbeeldingen geproduceerd. Tent begon als dtp-specialist (desktoppublishing) en leerde zichzelf de nieuwe technieken aan.
+
+Als kind tekenden beiden veel. Nu zijn ze verantwoordelijk voor de avonturen van Esther Olofsson, ‘onze virtuele influencer-persoon’, zoals Van Gaasbeek haar omschrijft. Olofsson is een bedacht personage, dat ogenschijnlijk een eigen leven leidt op sociale media. Momenteel neemt ze haar volgers mee op reis door Israël. Daar horen natuurlijk de geijkte plaatjes bij van Esther in de woestijn, het liefst met een kameel.
+Geen fotomodel meer nodig
+
+Voor zo’n afbeelding moesten ze vroeger een model inhuren, een fotoshoot doen op locatie, het beeld bewerken tot een digitaal 3D-model en dan nog de uiterlijke kenmerken van Esther Olofsson en de gewenste omgeving erop plakken. Met het programma Stable Diffusion kan dat allemaal veel sneller, toont Van Gaasbeek als hij het programma, in het Engels, de volgende opdracht geeft: hyperrealistische foto van Esther, lopend in de woestijn, met een kameel, fashionista, gelukkig, zacht licht, filmische belichting, Sigma lens met f2.8-brandpuntafstand, prijswinnend, veel details, wit.
+
+Van Gaasbeek en Tent hebben het programma geleerd hoe Esther eruit ziet. Op het scherm verschijnt afbeelding na afbeelding van de virtuele influencer in de woestijn. Per beeld duurt het niet langer dan twintig seconden om het te maken. Gaat het allemaal goed? Nee, de neus van Esther is soms vervormd en de kameel lijkt nog het meest op een hond. Van Gaasbeek klikt op de knop ‘beeld genereren’, net zolang tot er iets verschijnt dat wel bevalt.
+
+Ook de StabilityAI-baas, die met de revolutionaire ambities, denkt dat ‘prompters’ de werknemers van de toekomst zijn. Zij zullen straks overal werken, ook bijvoorbeeld op krantenredacties. In plaats van te googelen, wendt de journalist zich dan tot een chatbot. “Maak een lijst met tien Nederlandse rapporten die gaan over kunstmatige intelligentie en de gevolgen voor de arbeidsmarkt”, zou dan een ‘prompt’ kunnen zijn, een opdracht aan de chatbot. Gevolgd door: “Noteer de conclusies van die rapporten, en maak een lijstje met aanbevelingen voor overheid, werkgevers en werknemers.”
+
+Van Gaasbeek: “Je rol verschuift. Vroeger was ik vormgever, nu ben ik meer een art director die het programma aanwijzingen geeft alsof het mijn medewerker is: ‘die uitsnede is niet goed, het model moet meer lachen, de lichtinval is mooi’.”
+Aanpassen of wegkwijnen, is de boodschap
+
+Voor hem en zijn collega is het duidelijk. Door zich nu al te bekwamen in de nieuwste techniek, denken ze nog heel lang hun creatieve beroep uit te kunnen oefenen. Aanpassen of wegkwijnen, dat is de boodschap.
+
+Niet iedereen zal daarin mee kunnen natuurlijk. Sommige mensen hebben niet de juiste opleiding, ervaring of instelling om de overstap te maken. Anderen worden voorbijgestreefd door jongeren die zich dit soort technologie sneller eigen maken.
+
+Het is om die reden dat David Abbink van de TU Delft vindt dat de bestaande macro-economische schattingen niet zoveel zeggen. Zo berekende het World Economic Forum in 2020 dat 85 miljoen banen verloren zouden gaan door kunstmatige intelligentie (in de 26 landen die deelnamen de enquête, Nederland hoorde daar niet bij). Tegelijk zouden ook 97 miljoen nieuwe banen ontstaan. Maar wat zegt zo’n rapport?
+
+Abbink: “Als de manier van werken verandert, verandert ook het plezier dat mensen in hun werk hebben, én wie bedrijven inhuren om een klus te klaren.” Voor de individuele medewerker kunnen de gevolgen groot zijn. Mensen die niet mee kunnen in de ontwikkeling verliezen misschien hun werk. Anderen raken misschien gefrustreerd of verbitterd, omdat ze ineens met software moeten werken die ze niet goed kennen.
+Een wens van de techbedrijven
+
+Dat roept de vraag op wie er worden bediend met die nieuwe, nog slimmere software. Abbink denkt dat de ontwikkeling van al die nieuwe software vooral een grote wens is van techbedrijven in Sillicon Valley. “Er worden gewoon kansen gezien door mensen die er geld mee kunnen verdienen.”
+
+Dat geld moet dan opgehoest worden door de werkgevers en zelfstandigen die met de softwarepakketten gaan werken. De belofte van de software: creatief werk kan efficiënter worden gedaan. Vermoedelijk gaan we een explosie aan beelden en teksten zien, gewoon omdat bedrijven en particulieren die straks veel eenvoudiger kunnen maken.
+
+Maar dat de software hun marketingbureau overbodig zal maken, daar gelooft niemand in bij RAUWcc. “Wij blijven in staat om meerwaarde te bieden ten opzichte van klanten die de software zelf gebruiken”, zegt eigenaar Maarten Reijgersberg (47). “De creativiteit die je nodig hebt om een goede prompt op te stellen is echt nieuw vakgebied.”
+
+Om dat goed te doen moet de ontwerper het beeld eigenlijk al in zijn hoofd hebben zitten. De prompter moet de beeldtaal kennen, en de mogelijkheden van het programma beheersen om een afbeelding te maken die het verhaal van de klant vertelt.
+Wat is nou ook alweer de kern van mijn werk?
+
+Copywriters, vormgevers en andere creatieven die in paniek zijn geraakt door de ogenschijnlijk goede resultaten van de nieuwe slimme software, zouden eens goed moeten nadenken wat de kern van hun werk is. Wellicht geen alledaagse vraag. Ook motion designer Van Gaasbeek moet er even over nadenken. “Pfff, dat is een goeie.”
+
+Zijn antwoord: het draait niet eens zozeer om het maken van de afbeelding. Hij krijgt betaald om ‘de vraag van de klant op de best mogelijke manier te vertalen naar een media-uiting’, zegt hij. In gesprekken met de klant moet hij luisteren naar de vraag achter de vraag. “Als een klant vraagt om een poster, is dat misschien niet per se wat ze nodig hebben om het beoogde doel te behalen. Mijn taak, samen met mijn collega’s, is dus ook te bepalen wat de klant echt nodig heeft.”
+
+Iets soortgelijks zal gelden voor copywriters. ChatGPT kan misschien heel snel een tekst afleveren, maar is die dan naar tevredenheid van de klant? En als zo’n klant de tekst zelf heeft ‘gemaakt’, weet die dan waar het precies rammelt, waar het aan schort? Of is daarvoor een taalgevoelige schrijver nodig?
+
+Blijft over de factor werkplezier. Voorheen werkten Van Gaasbeek en Tent met grafische computerprogramma’s. Ze trokken lijntjes en vulden vlakken met steunkleuren. “Als ik zelf iets teken, voel ik honderd procent eigenaarschap”, zegt Van Gaasbeek. Dat gevoel ontbreekt soms als hij de computer een beeld laat genereren.
+
+“Behalve bij Esther Olofsson”, zeggen ze in koor. Want dat personage hebben ze helemaal zelf gemodelleerd, niemand had dat beter kunnen doen. Van Gaasbeek: “Esther is echt van ons.”
+
+
+Kunstmatige Intelligentie in de journalistiek
+
+Journalisten experimenteren ook met kunstmatige intelligentie. The Washington Post laat algoritmen bijvoorbeeld de verkiezingsuitslag en -opkomst voorspellen, gegevens die worden gebruikt om verhalen te schrijven. De BBC gebruikt slimme software om buitenlandse berichtgeving te vertalen en samen te vatten, als basis voor eigen nieuwsberichten.
+
+Dat zag Hannes Cools, toen hij voor zijn promotie op die redacties onderzoek deed. De software is bedoeld als hulpmiddel om de verslaggeving te verbeteren, maar te weinig vroegen (hoofd)redacties en uitgevers zich af wat de meerwaarde van de software echt was. “Voor The Washington Post was belangrijk dat de The New York Times ook zulke software had, ze wilden niet achter blijven”, zegt Cools. Juist als de meerwaarde niet altijd helder is, zijn journalisten huiverig om de software te gebruiken.
+
+Uitgevers gebruiken slimme software ook om het bereik van hun titels te vergroten, bijvoorbeeld door uit te zoeken welke onderwerpen leven. Sommige redacteuren van de Belgische krant De Morgen, onderdeel van dezelfde uitgeverij als Trouw, hebben drie schermen op hun bureau: twee voor het redactionele werk en eentje met daarop de laatste ‘bezoekcijfers’. “Dat redacties zulke cijfers mee gaan nemen bij de selectie van nieuws, zal gangbaar worden”, zegt Cools.

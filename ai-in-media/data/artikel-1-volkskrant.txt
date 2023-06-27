@@ -1,0 +1,90 @@
+AI in de journalistiek: de strijd om de waarheid verhevigt
+De journalistiek zal volgens alle experts rigoureus veranderen nu ook AI informatie kan verzamelen om die in een leesbaar verhaal te presenteren. Maar hoe? Doemt er een zee van nepnieuws op? ‘ChatGPT kan ook helpen met factchecken.’
+
+
+In de toekomst verschijnt hetzelfde artikel in vele vormen. Kinderen krijgen een versie voorgeschoteld in begrijpelijke taal, mensen met weinig tijd een puntsgewijze samenvatting, mensen met meer tijd een longread. Geen liefhebber van tekst? Dan krijgt u de informatie verpakt in een podcast of video.
+
+Dat is de voorspelling van David Caswell, een vrolijke, kale Canadees die zich voor de BBC met technologische ontwikkelingen bezighoudt.
+
+In de journalistiek hebben zich de afgelopen dertig jaar fundamentele transformaties voltrokken, zegt hij, verwijzend naar de komst van het internet. ‘Toch denk ik dat ze zullen verbleken vergeleken bij de kentering die de journalistiek de komende drie jaar zal doormaken.’
+
+Reden daarvoor is de komst van generatieve kunstmatige intelligentie, de techniek achter chatbots als ChatGPT en Bing Chat van Microsoft.
+
+Sinds de publicatie van de eerste krant, de Strasbourg Relation in 1604, is de eenheid van nieuws altijd hetzelfde gebleven. Caswell: ‘Namelijk het ouderwetse artikel. Jij als journalist schrijft het, het publiek leest het.’ Dat gaat veranderen, betoogt hij.
+
+Journalisten zullen volgens hem geen kant-en-klare artikelen meer afleveren, maar alleen nog ruw materiaal, dat wil zeggen een blok met informatie. AI stelt vervolgens een op maat gemaakt eindproduct samen, zegt Caswell.
+
+Hij gebruikt een metafoor van de mijnindustrie. ‘Journalisten dolven altijd de erts, bewerkten dat tot een metaal en maakten daar een product van. In de nieuwe wereld is die laatste stap in handen van AI.’
+
+Dit gebeurt al bij Bing, zegt hij. Bij het beantwoorden van een vraag over de oorlog in Oekraïne verzamelt die zoekmachine informatie van allerlei nieuwsbronnen.
+
+
+Sinds ChatGPT eind november 2022 in staat bleek informatie te verzamelen en op basis daarvan een leesbaar, coherent verhaal te kunnen schrijven is er veel discussie onder een beroepsgroep die daar zijn geld mee verdient: journalisten.
+
+Pessimisten menen dat ze hun baan kwijtraken en dat het onmogelijk wordt om nepnieuws te herkennen. Optimisten zijn blij dat AI ze verlost van geestdodende taken, zoals het transcriberen van interviews of het doorspitten van ellenlange rapporten.
+
+Over één ding zijn beide groepen het eens: AI gaat de journalistiek rigoureus veranderen.
+
+Daar is ze al mee begonnen. Nicholas Diakopoulos, schrijver van Automating the News en oprichter van de site Generative AI in the Newsroom, onderscheidt twee manieren waarop journalisten er nu gebruik van maken: de ene zichtbaar voor de lezer, de andere onzichtbaar.
+
+
+Het onzichtbare deel is analytisch. ChatGPT bleek in een experiment van Diakopoulos verrassend goed in staat wetenschappelijke artikelen op nieuwswaarde te beoordelen. Ook heeft hij een programma ontwikkeld dat suggereert welke kritische vragen journalisten over persberichten kunnen stellen.
+
+Journalisten gebruiken chatbots om ideeën op te doen. Het gebruik van dit soort hulpjes speelt zich af op de achtergrond en kan nauwelijks kwaad, zegt Diakopoulos, een Amerikaan die ‘een klein beetje’ Nederlands spreekt – hij is als universitair hoofddocent verbonden aan Northwestern University in Chicago maar verblijft nu in Amsterdam, waar hij tijdens een sabbatical onder meer onderzoek doet naar algoritmen en kunstmatige intelligentie.
+
+Meer kwaad, zegt Diakopoulos, kan het gebruik van AI dat zichtbaar is voor lezers, zoals het suggereren van koppen of het samenvatten van artikelen voor de nieuwsbrief. Dit is riskant omdat chatbots geregeld fouten maken, of ‘hallucineren’. Meredith Whittaker, baas van berichtenapp Signal, noemde ChatGPT begin mei een dronken oom die na een paar borrels vol zelfvertrouwen begint te lallen over dingen waar hij geen bal van begrijpt.
+
+Bij hun antwoorden verwijzen chatbots vaak naar krantenartikelen. ‘Daarmee lenen ze ook de geloofwaardigheid van de krant’, zegt José van Dijck, universiteitshoogleraar media en digitale samenleving aan de Universiteit Utrecht.
+
+‘Het is belangrijk dat journalisten blijven checken of alles wel klopt’, zegt Van Dijck, die de Tweede Kamer in april bijpraatte over het gebruik van AI in het onderwijs en de media.
+
+
+Een wereld waarin het echte nieuws verzuipt in een zee van nepnieuws. Dat was waar Trump-fluisteraar Steve Bannon van droomde toen hij het had over ‘flooding the zone with shit’. Dat was ook waar de Argentijnse schrijver Jorge Luis Borges over schreef in zijn verhaal De bibliotheek van Babel. In die oneindige ruimte staan alle boeken die ooit geschreven zijn, maar ook alle boeken die nooit geschreven zijn, waardoor niemand ooit waardevolle informatie kan vinden.
+
+Zo’n wereld komt door AI dichterbij. ‘Mijn grootste angst is dat nepnieuws massaal via sociale media wordt verspreid’, zegt José van Dijck. ‘Natuurlijk gebeurt dat al, maar voorheen kon je vanwege spelfouten of incoherente formuleringen nog wel zien dat iets niet deugde. Met behulp van AI produceren trollenlegers teksten die de schijn van authenticiteit hebben en zo kunnen ze nog meer onzin verspreiden.’
+
+De strijd om de waarheid intensiveert, zegt ook Charles Beckett, directeur van het Journalism and AI Project van de London School of Economics en schrijver van SuperMedia: Saving Journalism So It Can Save The World. ‘Rusland krijgt hierdoor nog makkelijker de kans om propaganda rond te pompen.’
+
+AI kan ook worden ingezet om nepnieuws tegen te gaan. Dankzij de techniek kunnen journalisten een melding krijgen als een nieuwsbericht viraal gaat. Beckett: ‘Vervolgens kan ChatGPT helpen om het bericht te factchecken.’
+
+
+David Caswell van de BBC relativeert de zorgen om nepnieuws. Hij wijst naar de voorbeelden die voorbij zijn gekomen: gefabriceerde foto’s van een gearresteerde Trump of de paus in een pufferjack. Die hebben weinig mensen voor de gek gehouden, zegt hij. Volgens hem wordt de samenleving steeds beter in het herkennen van nepnieuws.
+
+‘Biden dood’, stond in april op CelebritiesDeaths.com. Net als tientallen andere sites, met klinkende namen als Daily Business News, wordt die volgepend door chatbots, ontdekte NewsGuard, dat desinformatie in kaart brengt, vorige maand.
+
+
+
+Hier ligt een kans voor nieuwsmedia, zegt Nicholas Diakopoulos. ‘Als mensen via zoekmachines bij dit soort content farms terechtkomen, gaan ze de volgende keer misschien direct naar de site van hun krant, die wel goede informatie levert.’
+
+Hoe zeldzamer betrouwbare informatie wordt, hoe kostbaarder, zegt ook David Caswell. ‘Vergelijk het met tassen. Van plastic tassen is de productie geautomatiseerd. Daardoor zijn handgemaakte leren tassen alleen maar waardevoller geworden.’
+
+Ook bij traditionele media zullen sommige berichten door AI worden geschreven, vermoedt hij. Het persbureau Associated Press laat artikelen over kwartaalverslagen van bedrijven al sinds 2014 door machines optekenen. Caswell: ‘Ik kan me voorstellen dat dit bij eenvoudige nieuwsberichten vaker gaat gebeuren.’ Zorgen maakt hij zich om jonge journalisten. ‘Hoe moeten stagiairs het werk leren als AI de eenvoudiger klusjes doet?’
+
+
+‘Kunstmatige intelligentie heeft de potentie onafhankelijke journalistiek beter te maken dan zij ooit was – of haar simpelweg te vervangen’, zei Mathias Döpfner, baas van de Duitse uitgeefreus Axel Springer, in februari tegen zijn werknemers.
+
+Caswell gaat uit van het, voor journalisten, optimistische scenario. Het werk wordt ingewikkelder – en interessanter, denkt hij. ‘Journalisten kunnen zich met met meer onderzoekswerk bezighouden, met het brengen van onthullingen. Dat soort dingen kan AI niet.’ Journalisten kunnen hun vrijgekomen tijd ook gebruiken om mensen te spreken. ‘Daartoe is AI ook niet in staat.’
+
+Dat is nog maar de vraag. Nicholas Diakopoulos noemt een Scandinavisch experiment waarbij bezoekers van een sportwedstrijd een geautomatiseerd sms’je krijgen met de vraag naar hun ervaring. AI verwerkt hun reactie vervolgens in het artikel.
+
+
+Nieuwe technologieën veranderen de aard van de journalistiek. Dat is niets nieuws, zegt Diakopoulos. De telefoon, de typemachine en het internet hebben dat eerder gedaan. Natuurlijk zullen er taken verdwijnen door AI, zegt hij. ‘Maar ik denk niet dat dit voor hele banen geldt.’ Sterker: er komen banen bij. Een Duitse mediaorganisatie, zegt hij, heeft een vacature openstaan voor een prompt engineer – iemand die gespecialiseerd is in het geven van opdrachten aan AI.
+
+De zorgen om verdwijnende banen zijn legitiem, zegt Nick Caswell. ‘Als journalisten efficiënter worden, heb je minder journalisten nodig.’ Ook kan de situatie van uitgevers financieel penibel worden. Veel media zijn voor zo’n 30 procent van hun verkeer afhankelijk van Google. Als zoekmachines veranderen in chatbots en steeds langere (vaak van media afkomstige) antwoorden gaan geven op vragen over het nieuws, is de kans kleiner dat bezoekers doorklikken – en uiteindelijk een abonnement afsluiten.
+
+
+Het is dus belangrijk dat media een directere band krijgen met abonnees, zegt Charles Beckett, die zijn carrière begon bij een lokale krant in Zuid-Londen en bij de London School of Economics de mediadenktank Polis oprichtte. AI kan de relatie tussen krant en lezer verbeteren, zegt hij. ‘Als ik een abonnement op jouw krant neem, krijg ik honderd artikelen per dag. Dat is te veel, dat schrikt af. Ik heb hulp nodig. ’s Ochtends wil ik het korte nieuws, ’s avonds langere, reflectievere verhalen.’
+
+Op maat gemaakt nieuws heeft grenzen, beseft hij. ‘Mensen liegen. Ze zeggen dat ze alles willen weten over geopolitiek, maar lezen vervolgens over beroemdheden en voetbal.’ Bovendien is het moeilijk te voorspellen in wat voor stemming iemand is. ‘Een persoon kan het ene moment in een TikTok-bui zijn en het volgende in een Financial Times-bui.’
+
+
+Diakopoulos, de in Amsterdam verblijvende Amerikaan, maakt zich zorgen om een filterbubbel. Voor een gezond maatschappelijk debat, zegt hij, is het nodig dat mensen toegang hebben tot een gemeenschappelijke basis, tot dezelfde informatie. ‘Maar als elk persoon een ander verhaal te lezen krijgt, lopen we de kans dat te verliezen.’
+
+Caswell wuift dit bezwaar weg. ‘Mensen krijgen nog steeds dezelfde verhalen’, zegt hij. ‘Ze worden alleen op een andere manier verteld.’ Een Noors mediabedrijf lanceerde in november al een AI-model dat lange artikelen veranderde in korte tekstjes, geschikt voor het sociale medium Snapchat.
+
+Mogelijk krijgt iedereen binnen drie jaar een gepersonaliseerd artikel, zegt Caswell – al kunnen het er ook vijf of zeven zijn. ‘Maar snel. Toen we internet kregen, hadden mensen een modem nodig. Toen we sociale media kregen, een account. Nu zijn dat soort obstakels er niet.’
+
+
+Er zijn twee manieren om naar AI in de journalistiek te kijken, zegt hij. ‘Of je denkt dat dit er alleen toe leidt dat veel journalistiek werk wordt geautomatiseerd, voor de rest blijft alles bij het oude. Dit is de negatieve en, eerlijk gezegd, saaie opvatting.’
+
+Dan is er die andere mogelijkheid, eentje waarbij journalistiek meer wordt dan het nu is, meer mensen bereikt dan het nu doet. Caswell: ‘Ik werk bij de BBC. Wij hebben geen doelgroep, want iedereen is onze doelgroep. Maar iedereen is anders. Mensen hebben verschillende leesvaardigheden, opleidingen, leeftijden en leestijden. Dankzij dit hulpmiddel kunnen we onze journalistiek voor veel mensen veel toegankelijker maken. Dat verandert wat journalistiek is, ten goede.’

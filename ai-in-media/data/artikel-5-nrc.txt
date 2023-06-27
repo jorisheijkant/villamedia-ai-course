@@ -1,0 +1,27 @@
+AI hoort in de journalistieke beroepscode
+
+Kunstmatige intelligentie AI biedt de journalistiek veel mogelijkheden, maar richtlijnen zijn nodig, schrijven Daniëlle Arets, Jessy de Cooker en Bart Wernaart.
+
+In de richtlijn van de Belgische Raad voor de Journalistiek staan waarden als transparantie en redactionele verantwoording voor AI-producties centraal. Werk je als Belgische journalist met kunstmatige intelligente systemen die het nieuwsaanbod personaliseren of gebruik je ‘slimme’ systemen bij het maken van artikelen? Dan moet je volgens de nieuwste versie van de journalistieke code aan twee voorwaarden voldoen: jouw redactie moet transparant zijn over het gebruik ervan en de verantwoordelijkheid dragen voor de redactionele keuzes die leiden tot de inzet van kunstmatige intelligentie bij de garing, redactie, productie en verspreiding van nieuwsitems. 
+
+Het ANP omschreef vorige week in de nieuwe leidraad dat de redactionele processen beginnen en starten bij de mens, maar, zo stelt de leidraad, „het is aan de redactie of het relevant en nuttig is of AI-toepassingen bij redactionele of journalistieke producties ingezet worden. [...] AI is, zoals het er naar uitziet, een hulpmiddel en geen vervanger.” Hiermee is het persbureau een van de eerste Nederlandse journalistieke organisaties die deze stap naar een AI-visie zet. In de Nederlandse Code voor de Journalistiek van de NVJ en Leidraad van Raad voor de Journalistiek wordt nog met geen woord gerept over de manier waarop journalisten verantwoord om moeten gaan met de inzet van AI. Daar moet verandering in komen.
+Algoritmische transparantie
+
+Kunstmatige intelligentie biedt de journalistiek veel mogelijkheden om sneller en ander onderzoek te doen. Neem bijvoorbeeld producties van De Groene Amsterdammer en Pointer waarbij meer dan een miljoen tweets zijn geanalyseerd om Twitter-aanvallen op Nederlandse politici in kaart te brengen. Dit type onderzoeksjournalistieke verhalen zijn meestal voorzien van uitgebreide verantwoordingen waarin de lezer uitleg krijgt over de inzet van AI en de journalistieke en technische keuzes.
+
+Rond de inzet van kunstmatige intelligentie voor het personaliseren van nieuwscontent is de transparantie echter een stuk schaarser.
+
+Transparantie rond AI-inzet kan helpen in het herstel van de verslechterde relatie tussen de nieuwsmedia en hun publiek. Volgens de Finse onderzoeker Lauri Haapanen van de universiteit van Jyväskylä kunnen nieuwsmedia zich door algoritmische transparantie onderscheiden van de sociale mediagiganten als Meta en Twitter. 
+
+Resultaten van AI-systemen zijn alleen vaak niet uit te leggen, ook niet door de programmeurs die ze zelf hebben gecodeerd. Voor AI-onderzoekers is het onvermogen om te onderscheiden wat machines doen als ze data verwerken of zichzelf nieuwe vaardigheden aanleren een centraal punt van zorg geworden. In ons land is de inzet van etnische profilering in algoritmes zoals in de Toeslagenaffaire daar een voorbeeld van.
+
+Hier komen de journalistieke richtlijnen en codes om de hoek kijken. Voordat er daadwerkelijk verklaarbare AI-systemen zijn, is het een uitdaging om het werk van algoritmische systemen te verklaren en verantwoordelijk te houden.
+Nuance
+
+Tot die tijd zitten we in een overgangsperiode en is het noodzakelijk om aanvullende (en pragmatische) richtlijnen voor de inzet van kunstmatige intelligentie toe te voegen aan journalistieke codes. Journalisten gedragen zich, volgens onderzoeker Wayne Powell en de Britse journalist Mike Jempson, over het algemeen ook naar richtlijnen. Hun onderzoek wees uit dat redactionele richtlijnen en professionele ethische codes volgens journalisten de grootste impact hebben op hun journalistieke handelen. 
+
+Wat zou er dan aangepast of toegevoegd kunnen worden? De Belgische RVJ en het ANP beschrijven gericht hoe de redactionele verantwoordelijkheid behoort te zijn en hoe redacties transparant horen te zijn rond hun AI-inzet.
+
+De vraag is hoelang deze beschrijving bruikbaar blijft, gezien de enorm snelle technologische ontwikkelingen op AI-gebied. Een betere optie is misschien om vast te leggen dat de nieuwsconsument een blijvende stem moet hebben in de wijze waarop AI de journalistieke werken die ze lezen kan of mag beïnvloeden. De voortdurende afstemming met de samenleving over de vorming van de ‘vierde macht’ is crucialer dan ooit in een tijdperk waarin journalistieke autoriteit niet meer vanzelfsprekend is.
+
+Door het publiek actief en blijvend te betrekken bij de inzet van AI stellen ze wellicht de vaak utopische of dystopische meningen over technologie bij en leidt het tot een genuanceerdere zienswijze op de zin en onzin van AI. Laten we daarbij niet de fout maken die al zo vaak gemaakt wordt met technologische ontwikkeling: achter gesloten deuren maken en testen, en voor het gevoel van velen ‘plotseling’ als een voldongen feit inzetten, om vervolgens pas een gesprek aan te gaan over de morele kant van deze technologie. Een journalistieke beroepscode kan een stok achter de deur zijn om dat te voorkomen. 
