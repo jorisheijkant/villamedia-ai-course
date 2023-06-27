@@ -1,0 +1,2 @@
+## Villamedia listings
+The goal of this project is to find out what competences are asked mostly in job listings of journalism related work. We're trying to accomplish that by unsupervised learning on Villamedia's job listings.
