@@ -1,1 +1,14 @@
 playwright
+openai
+csv
+pandas
+snscrape
+transformers
+tensorflow
+keras
+numpy
+shutil 
+pathlib
+pillow
+skimage
+matplotlib
