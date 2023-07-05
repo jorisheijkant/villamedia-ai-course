@@ -9,3 +9,5 @@ __pycache__/
 music-test/og-files/
 csv-to-vertex-texts/csv/*
 csv-to-vertex-texts/texts/*
+
+openaikey.txt

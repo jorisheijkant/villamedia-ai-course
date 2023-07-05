@@ -1,0 +1,11 @@
+article,positive_passages,negative_passages,total_passages
+artikel-3-volkskrant.txt,6,10,16
+artikel-2-volkskrant.txt,8,4,12
+artikel-1-volkskrant.txt,29,17,46
+artikel-7-geenstijl.txt,3,1,4
+artikel-9-trouw.txt,29,18,47
+artikel-6-nrc.txt,23,11,34
+artikel-4-nrc.txt,21,11,32
+artikel-10-ad.txt,5,10,15
+artikel-8-trouw.txt,17,17,34
+artikel-5-nrc.txt,10,10,20
